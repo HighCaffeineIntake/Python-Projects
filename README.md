@@ -1,3 +1,2 @@
 This Folder will contain the Python scripts that I wrote during my masters thesis.
-
-json2pythonlibrary is a simple python script that takes .json files from the BGSU RNA Motif Atlas and extracts the Loop IDs, the sequence and the base positions within their respective RNA when given a Motif ID. This will be important for making the .hh files necessary for RNA Motif detection.
+In the future the single projects might be merged into a larger program allowing for easy prediction and validation of RNA 3D motifs from sequences.
